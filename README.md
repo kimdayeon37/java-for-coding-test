@@ -128,7 +128,7 @@
 * 실전
     * 부품 찾기
         * 이진 탐색으로 해결: ([Python 3.7 코드](/7/5.py) / [C++ 코드](/7/5.cpp) / [Java 코드](/7/5.java))
-        * 계수 정렬로 해결: ([Python 3.7 코드](/7/6.py) / [C++ 코드](/7/6.cpp) / [Java 코드](/7/6.java))
+        * 계수 정렬로 해결: ([Python 3.7 코드](/7/6.py) / [C++ 코드](/7/6.cpp) / [Java 코드](/7/6.java)) ✅
         * 집합(Set) 자료형으로 해결: ([Python 3.7 코드](/7/7.py) / [C++ 코드](/7/7.cpp) / [Java 코드](/7/7.java))
     * 떡볶이 떡 만들기: ([Python 3.7 코드](/7/8.py) / [C++ 코드](/7/8.cpp) / [Java 코드](/7/8.java))
 
@@ -213,7 +213,7 @@
 
 * 정렬된 배열에서 특정 수의 개수 구하기 (Zoho 인터뷰 기출): ([Python 3.7 코드](/15/1.py) / [C++ 코드](/15/1.cpp) / [Java 코드](/15/1.java))
 * 고정점 찾기 (Amazon 인터뷰 기출): ([Python 3.7 코드](/15/2.py) / [C++ 코드](/15/2.cpp) / [Java 코드](/15/2.java))
-* [공유기 설치](https://www.acmicpc.net/problem/2110) (핵심 유형): ([Python 3.7 코드](/15/3.py) / [C++ 코드](/15/3.cpp) / [Java 코드](/15/3.java))
+* [공유기 설치](https://www.acmicpc.net/problem/2110) (핵심 유형): ([Python 3.7 코드](/15/3.py) / [C++ 코드](/15/3.cpp) / [Java 코드](/15/3.java)) ✅
 * [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) (카카오): ([Python 3.7 코드](/15/4.py) / [C++ 코드](/15/4.cpp) / [Java 코드](/15/4.java))
 
 #### 16장 다이나믹 프로그래밍
