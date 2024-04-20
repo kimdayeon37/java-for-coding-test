@@ -9,7 +9,7 @@
 * 이 책을 이용해 강의를 진행하시는 교수/선생님/강사/동아리장 님들을 위해 강의용 PPT를 제공합니다. (준비중)
 * 전체 동영상 강의는 2020년 8 ~ 9월에 걸친 유튜브 라이브 강의를 진행하고 편집 후에 업로드 될 예정입니다.
 * 책 구매 링크: [한빛미디어](http://hanbit.co.kr/store/books/look.php?p_code=B8945183661) / [YES24](http://www.yes24.com/Product/Goods/91433923) / [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791162243077) / [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K342631735)
-
+ 
 <hr>
 
 ### 대기업 코딩 테스트 문제 적중 관련
